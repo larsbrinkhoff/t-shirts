@@ -6,4 +6,5 @@ Vintate computing t-shirt designs.
 - E&S, Evans and Sutherland.
 - III, Information International Incorporation.
 - Imlac corporation.
+- LMI, Lisp Machine Inc.
 - Systems Concepts.
