@@ -7,5 +7,6 @@ Vintate computing t-shirt designs.
 - Foonly.
 - III, Information International Incorporation.
 - Imlac corporation.
+- LARS report.
 - LMI, Lisp Machine Inc.
 - Systems Concepts.
