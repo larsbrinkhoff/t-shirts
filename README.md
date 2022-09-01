@@ -8,6 +8,7 @@ Vintate computing t-shirt designs.
 - III, Information International Incorporation.
 - Imlac corporation.
 - Interface Message Processor.
+- Interlisp.
 - LARS report.
 - LMI, Lisp Machine Inc.
 - Systems Concepts.
