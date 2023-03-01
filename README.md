@@ -2,6 +2,7 @@ Vintate computing t-shirt designs.
 
 - Data Disc.
 - Datapoint.
+- Datasaab.
 - DEC computers.
 - E&S, Evans and Sutherland.
 - Foonly.
