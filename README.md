@@ -5,6 +5,7 @@ Vintate computing t-shirt designs.
 - Datasaab.
 - DEC computers.
 - E&S, Evans and Sutherland.
+- Fabri-Tek.
 - Foonly.
 - III, Information International Incorporation.
 - Imlac corporation.
