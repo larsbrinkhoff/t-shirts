@@ -13,5 +13,7 @@ Vintate computing t-shirt designs.
 - Interlisp.
 - LARS report.
 - LMI, Lisp Machine Inc.
+- Mars may be smaller than Jupiter but it's a lot closer --
+  Fred Wright, Systems Concepts.
 - Systems Concepts.
 - Zork (1978).
