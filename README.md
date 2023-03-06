@@ -7,6 +7,7 @@ Vintate computing t-shirt designs.
 - E&S, Evans and Sutherland.
 - Fabri-Tek.
 - Foonly.
+- General Turtle.
 - III, Information International Incorporation.
 - Imlac corporation.
 - Interface Message Processor.
